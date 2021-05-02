@@ -1,0 +1,16 @@
+/node_modules
+/public/storage
+/storage/*.key
+/bower_components
+/vendor
+/.idea
+/.history
+/.vscode
+Homestead.json
+Homestead.yaml
+.env
+/public/uploads
+/storage
+composer.lock
+
+
